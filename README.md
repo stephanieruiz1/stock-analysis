@@ -17,6 +17,4 @@ The advantage to refactoring is that makes the code more efficient and it helps 
 The only disadvantage I see to refactoring is that it can be time consuming 
 ### How do these pros and cons apply to refactoring the original VBA script?
 
-The pros is that having a larger data make it run faster 
-
-The cons is that the code had to be debugged multiple times in order to run properly.
+The pros is that having a larger data improve the speed to run it faster. The cons is that the code had to be debugged multiple times in order to run properly.
